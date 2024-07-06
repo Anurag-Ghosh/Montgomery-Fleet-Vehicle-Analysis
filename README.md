@@ -13,4 +13,4 @@ Sorting out the widths of all columns so that the data is clearly visible in all
 In this final assigment, you will be following the scenario of a recently hired Junior Data Analyst in a local government office, who has been tasked with sorting and analyzing fleet inventory data that was previously imported and cleaned. You plan to use pivot tables to analyze the data in preparation for the results to be visualized in a dashboard and added to a data findings report later.
 
 ###### Skills Used:
-Using the Format as Table option to format the data as a table, using AutoSum to calculate values (Sum, Average, Min, Max, Count), using the PivotTable feature to create Pivot Tables and sort their data.
+Using the Format as Table option to format the data as a table, using AutoSum to calculate values (Sum, Average, Min, Max, Count), using the PivotTable feature to create pivot tables and sort their data.
