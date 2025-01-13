@@ -1,4 +1,4 @@
-# Montgomery-Fleet-Vehicle-Analysis
+# Montgomery Fleet Vehicle Analysis
 ### Final Project for Excel Basics for Data Analysis (Course 2 of IBM Data Analyst Professional Certificate)
 -------------------------------
 #### Assignment Scenario Part 1:
